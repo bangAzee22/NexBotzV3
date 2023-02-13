@@ -29,32 +29,32 @@ global.sig = 'https://instagram.com/saep.02'
 global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
 global.sgh = 'https://github.com/SaepEp'
 global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/628812743180'
+global.swa = 'wa.me/6282169638085'
 global.swb = 'https://discord.gg/4HvezMAw'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '6282169638085'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '-'
+global.ppulsa = '6282169638085'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288221354110'
-global.nomorown = '628812743180'
-global.nomorown1 = '628812743180'
-global.namebot = 'NexBotz'
-global.nameown = 'NexEp'
+global.nomorbot = '6283130695796'
+global.nomorown = '6282169638085'
+global.nomorown1 = '6282169638085'
+global.namebot = 'Ocobot'
+global.nameown = 'Bang Azee'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221354110'],
-  ['6283891677178'],
-  ['18126338970'],
-  ['628812743180', 'NexEp', true]
+  ['6282169638085'],
+  ['6282169638085'],
+  ['6282169638085'],
+  ['6282169638085', 'Azee', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
